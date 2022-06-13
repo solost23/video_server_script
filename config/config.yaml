@@ -1,0 +1,9 @@
+connections:
+  mysql:
+    video_server:
+      host: localhost
+      user: root
+      password: 123
+      port: 3306
+      db: video_server
+      charset: utf8mb4
